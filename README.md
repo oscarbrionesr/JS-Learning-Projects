@@ -1,2 +1,2 @@
 # pyramid
-Pyramid Generator
+Welcome to my first JS project: Pyramid Generator
