@@ -1,2 +1,4 @@
-# pyramid
-Welcome to my first JS project: Pyramid Generator
+# JS Learning Projects
+Welcome to my JS projects: 
+
+1. Pyramid Generator
