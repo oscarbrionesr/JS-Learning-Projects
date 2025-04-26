@@ -1,5 +1,5 @@
-# JS Learning Projects
-Welcome to my JS Learning projects: 
+# JavaScript Learning Projects
+Welcome to my JavaScript Learning projects: 
 
-1. Pyramid Generator: pyramid.js
-2. Gradebook: gradebook.js
+1. Pyramid Generator
+2. Gradebook
