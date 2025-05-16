@@ -3,3 +3,4 @@ Welcome to my JavaScript Learning projects:
 
 1. Pyramid Generator
 2. Gradebook
+3. RPG Game
