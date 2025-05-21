@@ -6,3 +6,4 @@ Welcome to my JavaScript Learning projects:
 3. RPG Game
 4. Background Color Changer
 5. Calorie Counter
+6. Rock Paper Scissors
