@@ -5,3 +5,4 @@ Welcome to my JavaScript Learning projects:
 2. Gradebook
 3. RPG Game
 4. Background Color Changer
+5. Calorie Counter
