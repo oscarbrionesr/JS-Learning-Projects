@@ -7,3 +7,4 @@ Welcome to my JavaScript Learning projects:
 4. Background Color Changer
 5. Calorie Counter
 6. Rock Paper Scissors
+7. Music Player
