@@ -8,3 +8,4 @@ Welcome to my JavaScript Learning projects:
 5. Calorie Counter
 6. Rock Paper Scissors
 7. Music Player
+8. Palindrome Checker
