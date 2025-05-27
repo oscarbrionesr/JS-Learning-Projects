@@ -10,3 +10,4 @@ Welcome to my JavaScript Learning projects:
 7. Music Player
 8. Palindrome Checker
 9. Date Formatter
+10. Football Cards
