@@ -11,3 +11,4 @@ Welcome to my JavaScript Learning projects:
 8. Palindrome Checker
 9. Date Formatter
 10. Football Cards
+11. ToDo App
