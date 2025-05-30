@@ -1,0 +1,41 @@
+body {
+  min-height: 100vh;
+  padding: 50px 20px;
+  font-family: 'Helvetica';
+  font-size: 18px;
+  background-color: #70c2c3;
+  color: #f5f6f7;
+}
+
+h1 {
+  text-align: center;
+  margin: 20px auto;
+}
+
+fieldset {
+  border: 4;
+  height: 100%;
+  padding: 25px;
+  margin: 10px 20px;
+}
+
+button {
+  cursor: pointer;
+  margin-top: 15px;
+  background-color: #feac32;
+  border: 3px solid #feac32;
+  font-size: 23px;
+  width: 80%;
+}
+
+div {
+  color: white;
+  font-size: 2.5rem;
+  width: 90%;
+  max-width: 500px;
+  min-height: 55px;
+  margin-top: 25px;
+  padding: 15px;
+  overflow-wrap: break-word;
+  text-align: center;
+}
