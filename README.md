@@ -15,3 +15,4 @@ Welcome to my JavaScript Learning projects:
 12. Roman Numeral Converter
 13. Spam Filter
 14. Number Sorter
+15. Statistics Calculator
